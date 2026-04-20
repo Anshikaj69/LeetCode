@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Anshikaj69/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Anshikaj69/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/Anshikaj69/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0035-search-insert-position](https://github.com/Anshikaj69/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0075-sort-colors](https://github.com/Anshikaj69/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshikaj69/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Anshikaj69/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/Anshikaj69/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Anshikaj69/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshikaj69/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -52,5 +54,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Anshikaj69/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/Anshikaj69/LeetCode/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
