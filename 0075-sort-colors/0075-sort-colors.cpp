@@ -6,11 +6,11 @@ public:
         if(nums[i] == 0){
             swap(nums[f], nums[i]);
             f++;
+            i++;
         }else if (nums[i] == 2){
             swap(nums[l], nums[i]);
             l--;
         }else{i++;}
-        if(i<f){i++;}
        }
 
     }
