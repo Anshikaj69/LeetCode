@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Anshikaj69/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anshikaj69/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/Anshikaj69/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Anshikaj69/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Anshikaj69/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshikaj69/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/Anshikaj69/LeetCode/tree/main/0283-move-zeroes/) | Easy |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Anshikaj69/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [1021-remove-outermost-parentheses](https://github.com/Anshikaj69/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Anshikaj69/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Anshikaj69/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anshikaj69/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Anshikaj69/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Anshikaj69/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Anshikaj69/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshikaj69/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -61,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0015-3sum](https://github.com/Anshikaj69/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/Anshikaj69/LeetCode/tree/main/0075-sort-colors/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Anshikaj69/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Anshikaj69/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
