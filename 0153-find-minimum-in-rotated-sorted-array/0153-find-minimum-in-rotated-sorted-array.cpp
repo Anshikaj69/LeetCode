@@ -7,8 +7,7 @@ public:
         while(l<=r){
 
              if(nums[l]<= nums[r]){ 
-                min_val =  min(min_val, nums[l]);
-                return min_val; 
+                return min(min_val, nums[l]); 
             }
 
              mid = (l+r)/2;
