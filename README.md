@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Anshikaj69/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Anshikaj69/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshikaj69/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1314-matrix-block-sum](https://github.com/Anshikaj69/LeetCode/tree/main/C++/1314-matrix-block-sum/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anshikaj69/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Anshikaj69/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshikaj69/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1314-matrix-block-sum](https://github.com/Anshikaj69/LeetCode/tree/main/C++/1314-matrix-block-sum/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Anshikaj69/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1314-matrix-block-sum](https://github.com/Anshikaj69/LeetCode/tree/main/C++/1314-matrix-block-sum/) | Medium |
 <!---LeetCode Topics End-->
