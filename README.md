@@ -141,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1314-matrix-block-sum](https://github.com/Anshikaj69/LeetCode/tree/main/C++/1314-matrix-block-sum/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Anshikaj69/LeetCode/tree/main/MySQL/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
