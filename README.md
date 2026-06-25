@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshikaj69/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Anshikaj69/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Anshikaj69/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/Anshikaj69/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Anshikaj69/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Anshikaj69/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0238-product-of-array-except-self/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Anshikaj69/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshikaj69/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
