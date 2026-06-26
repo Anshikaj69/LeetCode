@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Anshikaj69/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0724-find-pivot-index/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Anshikaj69/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Anshikaj69/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshikaj69/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1314-matrix-block-sum](https://github.com/Anshikaj69/LeetCode/tree/main/C++/1314-matrix-block-sum/) | Medium |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Anshikaj69/LeetCode/tree/master/0001-two-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0523-continuous-subarray-sum/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Anshikaj69/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0974-subarray-sums-divisible-by-k/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anshikaj69/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0523-continuous-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Anshikaj69/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0724-find-pivot-index/) | Easy |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshikaj69/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1314-matrix-block-sum](https://github.com/Anshikaj69/LeetCode/tree/main/C++/1314-matrix-block-sum/) | Medium |
 ## Queue
