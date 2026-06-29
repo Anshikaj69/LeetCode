@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Anshikaj69/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anshikaj69/LeetCode/tree/main/C++/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1314-matrix-block-sum](https://github.com/Anshikaj69/LeetCode/tree/main/C++/1314-matrix-block-sum/) | Medium |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/Anshikaj69/LeetCode/tree/main/C++/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anshikaj69/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshikaj69/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anshikaj69/LeetCode/tree/main/C++/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/Anshikaj69/LeetCode/tree/main/C++/1870-minimum-speed-to-arrive-on-time/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
