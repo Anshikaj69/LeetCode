@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Anshikaj69/LeetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0523-continuous-subarray-sum/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Anshikaj69/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Anshikaj69/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Anshikaj69/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Anshikaj69/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Anshikaj69/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Anshikaj69/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/Anshikaj69/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
