@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anshikaj69/LeetCode/tree/main/C++/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Anshikaj69/LeetCode/tree/main/C++/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anshikaj69/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Anshikaj69/LeetCode/tree/main/C++/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Anshikaj69/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Anshikaj69/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Anshikaj69/LeetCode/tree/main/C++/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Anshikaj69/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/Anshikaj69/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Anshikaj69/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Anshikaj69/LeetCode/tree/main/C++/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
