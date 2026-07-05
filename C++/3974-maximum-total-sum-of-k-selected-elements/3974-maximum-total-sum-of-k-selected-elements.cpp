@@ -2,8 +2,8 @@ class Solution {
 public:
     long long maxSum(vector<int>& nums, int k, int mul) {
         
-        long long sum = 0, r = nums.size()-1;
-        sort(nums.begin(), nums.end());
+        long long sum = 0, r = 0;
+        partial_sort(nums.begin(), nums.begin()+k ,  nums.end(), greater<int>());
 
         while(k>0){
 
@@ -15,7 +15,7 @@ public:
 
             mul--;
             k--;
-            r--;
+            r++;
         }
 
         return sum;
