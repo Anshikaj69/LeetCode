@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anshikaj69/LeetCode/tree/main/C++/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1314-matrix-block-sum](https://github.com/Anshikaj69/LeetCode/tree/main/C++/1314-matrix-block-sum/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anshikaj69/LeetCode/tree/main/C++/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anshikaj69/LeetCode/tree/main/C++/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Anshikaj69/LeetCode/tree/main/C++/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anshikaj69/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Anshikaj69/LeetCode/tree/main/C++/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Anshikaj69/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0152-maximum-product-subarray/) | Medium |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anshikaj69/LeetCode/tree/main/C++/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
