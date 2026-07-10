@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Anshikaj69/LeetCode/tree/main/MySQL/0595-big-countries/) | Easy |
 | [1148-article-views-i](https://github.com/Anshikaj69/LeetCode/tree/main/MySQL/1148-article-views-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Anshikaj69/LeetCode/tree/main/MySQL/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Anshikaj69/LeetCode/tree/main/MySQL/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1683-invalid-tweets](https://github.com/Anshikaj69/LeetCode/tree/main/MySQL/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Anshikaj69/LeetCode/tree/main/MySQL/1757-recyclable-and-low-fat-products/) | Easy |
 ## Divide and Conquer
