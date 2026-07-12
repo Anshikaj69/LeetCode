@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0197-rising-temperature](https://github.com/Anshikaj69/LeetCode/tree/main/MySQL/0197-rising-temperature/) | Easy |
+| [0577-employee-bonus](https://github.com/Anshikaj69/LeetCode/tree/main/MySQL/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/Anshikaj69/LeetCode/tree/main/MySQL/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/Anshikaj69/LeetCode/tree/main/MySQL/0595-big-countries/) | Easy |
 | [1148-article-views-i](https://github.com/Anshikaj69/LeetCode/tree/main/MySQL/1148-article-views-i/) | Easy |
