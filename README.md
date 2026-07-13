@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Anshikaj69/LeetCode/tree/main/MySQL/0595-big-countries/) | Easy |
 | [0620-not-boring-movies](https://github.com/Anshikaj69/LeetCode/tree/main/MySQL/0620-not-boring-movies/) | Easy |
 | [1148-article-views-i](https://github.com/Anshikaj69/LeetCode/tree/main/MySQL/1148-article-views-i/) | Easy |
+| [1251-average-selling-price](https://github.com/Anshikaj69/LeetCode/tree/main/MySQL/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/Anshikaj69/LeetCode/tree/main/MySQL/1280-students-and-examinations/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Anshikaj69/LeetCode/tree/main/MySQL/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Anshikaj69/LeetCode/tree/main/MySQL/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
