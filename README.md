@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0523-continuous-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Anshikaj69/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0724-find-pivot-index/) | Easy |
+| [0735-asteroid-collision](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0739-daily-temperatures/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0875-koko-eating-bananas/) | Medium |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Anshikaj69/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0503-next-greater-element-ii/) | Medium |
+| [0735-asteroid-collision](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0739-daily-temperatures/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Anshikaj69/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Math
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0053-maximum-subarray/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0240-search-a-2d-matrix-ii/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0735-asteroid-collision](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0735-asteroid-collision/) | Medium |
 <!---LeetCode Topics End-->
