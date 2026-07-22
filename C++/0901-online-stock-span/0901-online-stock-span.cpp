@@ -15,7 +15,6 @@ public:
         int ans = 1;
 
         while(!s.empty() && span[s.top()] <= price){
-            cout<< "pooped on i - " << i << "value : " << span[s.top()]<<endl;
             s.pop();
         }
 
