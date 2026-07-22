@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Anshikaj69/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Anshikaj69/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0503-next-greater-element-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0523-continuous-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Anshikaj69/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0724-find-pivot-index/) | Easy |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Anshikaj69/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0503-next-greater-element-ii/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Anshikaj69/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Anshikaj69/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0503-next-greater-element-ii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
