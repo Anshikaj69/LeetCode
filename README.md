@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0901-online-stock-span/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Anshikaj69/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0901-online-stock-span/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -216,4 +218,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0735-asteroid-collision/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0901-online-stock-span/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
