@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Anshikaj69/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Anshikaj69/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0053-maximum-subarray/) | Medium |
+| [0056-merge-intervals](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0056-merge-intervals/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Anshikaj69/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0084-largest-rectangle-in-histogram/) | Hard |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Anshikaj69/LeetCode/tree/main/0015-3sum/) | Medium |
+| [0056-merge-intervals](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Anshikaj69/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Anshikaj69/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Anshikaj69/LeetCode/tree/main/C++/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
