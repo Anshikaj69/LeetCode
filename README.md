@@ -244,4 +244,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0268-missing-number/) | Easy |
+| [0693-binary-number-with-alternating-bits](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0693-binary-number-with-alternating-bits/) | Easy |
 <!---LeetCode Topics End-->
