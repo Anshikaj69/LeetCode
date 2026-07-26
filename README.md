@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0053-maximum-subarray/) | Medium |
+| [0191-number-of-1-bits](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0191-number-of-1-bits/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0240-search-a-2d-matrix-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -241,5 +242,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
