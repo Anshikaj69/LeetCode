@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0189-rotate-array/) | Medium |
+| [0231-power-of-two](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0268-missing-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0523-continuous-subarray-sum/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Anshikaj69/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -243,6 +244,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0191-number-of-1-bits/) | Easy |
+| [0231-power-of-two](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0268-missing-number/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0693-binary-number-with-alternating-bits/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
