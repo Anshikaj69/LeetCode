@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Anshikaj69/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0240-search-a-2d-matrix-ii/) | Medium |
+| [0268-missing-number](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Anshikaj69/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Anshikaj69/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0496-next-greater-element-i/) | Easy |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Anshikaj69/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0268-missing-number](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0268-missing-number/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0523-continuous-subarray-sum/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Anshikaj69/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshikaj69/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Anshikaj69/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0240-search-a-2d-matrix-ii/) | Medium |
+| [0268-missing-number](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0268-missing-number/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Anshikaj69/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0875-koko-eating-bananas/) | Medium |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0268-missing-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0523-continuous-subarray-sum/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Anshikaj69/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3101-count-alternating-subarrays](https://github.com/Anshikaj69/LeetCode/tree/main/C++/3101-count-alternating-subarrays/) | Medium |
@@ -140,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Anshikaj69/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Anshikaj69/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0268-missing-number](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0268-missing-number/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Anshikaj69/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Anshikaj69/LeetCode/tree/main/C++/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Dynamic Programming
@@ -233,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0901-online-stock-span/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
