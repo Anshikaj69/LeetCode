@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Anshikaj69/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0084-largest-rectangle-in-histogram/) | Hard |
 | [0136-single-number](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0137-single-number-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anshikaj69/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Anshikaj69/LeetCode/tree/main/0162-find-peak-element/) | Medium |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0268-missing-number/) | Easy |
