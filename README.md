@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0056-merge-intervals/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Anshikaj69/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0084-largest-rectangle-in-histogram/) | Hard |
 | [0136-single-number](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0137-single-number-ii/) | Medium |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0191-number-of-1-bits/) | Easy |
@@ -255,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0231-power-of-two/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
