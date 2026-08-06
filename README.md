@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/Anshikaj69/LeetCode/tree/main/MySQL/0620-not-boring-movies/) | Easy |
 | [1075-project-employees-i](https://github.com/Anshikaj69/LeetCode/tree/main/MySQL/1075-project-employees-i/) | Easy |
 | [1148-article-views-i](https://github.com/Anshikaj69/LeetCode/tree/main/MySQL/1148-article-views-i/) | Easy |
+| [1211-queries-quality-and-percentage](https://github.com/Anshikaj69/LeetCode/tree/main/MySQL/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/Anshikaj69/LeetCode/tree/main/MySQL/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/Anshikaj69/LeetCode/tree/main/MySQL/1280-students-and-examinations/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Anshikaj69/LeetCode/tree/main/MySQL/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
