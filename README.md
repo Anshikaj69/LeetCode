@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Anshikaj69/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Anshikaj69/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0344-reverse-string/) | Easy |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Anshikaj69/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0496-next-greater-element-i/) | Easy |
@@ -263,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0078-subsets/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
