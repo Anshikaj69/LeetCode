@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Anshikaj69/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0344-reverse-string/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Anshikaj69/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Anshikaj69/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Stack
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0901-online-stock-span/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Anshikaj69/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Anshikaj69/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Anshikaj69/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Anshikaj69/LeetCode/tree/main/C++/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Trie
@@ -269,4 +272,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0020-valid-parentheses/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
