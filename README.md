@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Anshikaj69/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0032-longest-valid-parentheses/) | Hard |
 | [0125-valid-palindrome](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Anshikaj69/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0344-reverse-string/) | Easy |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Anshikaj69/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0496-next-greater-element-i/) | Easy |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Anshikaj69/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0152-maximum-product-subarray/) | Medium |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0032-longest-valid-parentheses/) | Hard |
 | [0856-score-of-parentheses](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
