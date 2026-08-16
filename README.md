@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0268-missing-number/) | Easy |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/Anshikaj69/LeetCode/tree/main/C++/0509-fibonacci-number/) | Easy |
 ## Backtracking
